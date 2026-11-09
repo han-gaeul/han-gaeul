@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hangaeul/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hangaeul.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/hannn03)
+[![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hangaeul/posts)
 
 </div>
 
